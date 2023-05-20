@@ -10,10 +10,10 @@
 [![Articles](https://badgen.org/img/qiita/fumigoro/articles?style=flat)](https://qiita.com/fumigoro)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumigoro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumigoro&layout=donut)](https://github.com/fumigoro)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumigoro&count_private=true&show_icons=true)](https://github.com/fumigoro)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fumigoro&rank=SECRET,SSS,SS,S,AA,AA,A,B,C&column=7)](https://github.com/fumigoro)
 <!--
 **fumigoro/fumigoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
