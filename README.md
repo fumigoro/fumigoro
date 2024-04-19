@@ -1,8 +1,6 @@
 # Hi there 👋
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,materialui,nodejs,vite,firebase,docker,netlify,gcp,py,pytorch,ai,figma,git,github,githubactions)](https://skillicons.dev)
-
 
 ### Status
 
