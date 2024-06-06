@@ -14,14 +14,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fumigoro&rank=SECRET,SSS,SS,S,AA,AA,A,B,C&column=7)](https://github.com/fumigoro)
 
-## Works
-
-### レクマネ
-<img width="400" alt="標準ロゴ" src="https://user-images.githubusercontent.com/51395778/227837483-9355503a-1ace-4437-94b2-1d9568470e6f.png">
-
- - [リポジトリ](https://github.com/fumigoro/lecmane)
- - [サービスのURL](https://www.lecmane.com/) （LIFFアプリとしてLINE公式アカウントから提供しているため、スマホ前提のUIとなっています。）
-
 <!--
 **fumigoro/fumigoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
