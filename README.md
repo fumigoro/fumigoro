@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,c,java,react,nextjs,pytorch,gcp,aws,firebase,supabase,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,pytorch,gcp,aws,ai,figma)](https://skillicons.dev)
 
 ### Status
 
